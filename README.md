@@ -6,7 +6,8 @@ This is a checkpoint simulation using Anylogic
 2. Fill in details to download
 3. Run the downloaded file anylogic-ple-8.9.8.x86_64.exe to install Anylogic
 
-# Engine version used: Anylogic 8.9.8 Personal Learning Edition
+# Engine version used: 
+Anylogic 8.9.8 Personal Learning Edition
 
 # Run Instruction
 1. Go to folder SETUP 1/2
